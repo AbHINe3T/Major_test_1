@@ -12,15 +12,3 @@ while(n!=0):
 
 print("Sum of odd {}".format(sumodd))
 print("Sum of Even {}".format(sumeven))
-
-
-
-
-
-
-
-
-# n=int(input("enter the integer: \n"))
-# n=13
-# ans=mysum(n)
-# print(mysum)
